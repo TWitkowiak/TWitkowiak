@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomek Witkowiak
 - 👀 Interested in Data Analysis and Big Data
-- 🌱 Ccurrently learning advanced Excel and Power BI
+- 🌱 Currently learning advanced Excel, SQL and Power BI
 - 💞️ Looking to collaborate on interesting data analysis projects
 - 📫 You can reach me at witkowiak.tomasz@gmail.com
 
