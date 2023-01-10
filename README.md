@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomek Witkowiak
+- 👋 Hi, my name is Tomek Witkowiak
 - 👀 Interested in Data Analysis and Big Data
 - 🌱 Currently learning advanced Excel, SQL and Power BI
 - 💞️ Looking to collaborate on interesting data analysis projects
