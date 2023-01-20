@@ -5,6 +5,7 @@
 - 📫 You can reach me at witkowiak.tomasz@gmail.com
 
 Google Data Analytics Professional Certificate capstone project: https://www.kaggle.com/code/tomekwitkowiak/employee-attrition-google-certificate-case-study
+
 Microsoft Power BI dashboard project : https://drive.google.com/file/d/1OG9hvgrOjUJ0oq9hareVKEoPDvCXtzIu/view?usp=share_link
 <!---
 TWitkowiak/TWitkowiak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
