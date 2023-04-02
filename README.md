@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Tomek Witkowiak
-- 👀 Interested in Analytics and Big Data
-- 🌱 Currently learning advanced Excel, SQL and Power BI. My goal is to break into data analytics. My further goal is to become a data engineer.
+- 👀 Interested in Data Science
+- 🌱 Currently learning advanced Excel, SQL and Power BI. My goal is to break into data analytics. My further goal is to become a data scientist or data engineer.
 - 💞️ Looking for collaborate on interesting data analysis projects
 - 📫 You can contact me at witkowiak.tomasz@gmail.com
 
